@@ -34,7 +34,7 @@
         "preact": "10.19.3",
         "set-interval-async": "3.0.3",
         "tabulator-tables": "6.2.1",
-        "ws": "8.16.0"
+        "ws": "8.18.0"
     },
     "devDependencies": {
         "@esbuild-plugins/node-globals-polyfill": "0.2.3",
@@ -94,7 +94,7 @@
         "terser": "5.31.0",
         "ts-node": "10.9.2",
         "typescript": "5.4.5",
-        "vite": "5.2.11",
+        "vite": "5.4.11",
         "vite-plugin-monaco-editor": "1.1.0"
     },
     "browserslist": [
