@@ -25,7 +25,7 @@
     "dependencies": {
         "anser": "2.1.1",
         "antlr4-c3": "3.4.1",
-        "antlr4ng": "3.0.3",
+        "antlr4ng": "3.0.16",
         "classnames": "2.5.1",
         "color": "4.2.3",
         "d3": "7.8.4",
